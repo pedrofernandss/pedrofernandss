@@ -1,7 +1,7 @@
 ## Oie, tudo bem? Eu sou o Pedro Fernandes 👋
 #### 👨‍🎓 Sou estudante de Computação na Universidade de Brasília
 - 🧬 Atualmente faço estágio em pesquisa em bioinformática
-- 🔭 Tenho interesse em desenvolver minhas habilidades em web dev e machine learning
+- 🔭 Tenho interesse em desenvolver minhas habilidades em web dev, programação competitiva e machine learning
 
 ##
 #### Tenho estudado:
