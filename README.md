@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Pedro Fernandes and I'm a  Computer Science Student and Artificial Intelligence Developer from Brazil</p>
+<p align="left"></p>
 
 ###
 
