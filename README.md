@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Crio bugs desde 2023<br>📚 Atualmente tenho estudado inteligência artificial, desenvolvimento mobile e gerenciamento de projetos<br>🎯 Meus objetivos são poder aprender pra poder ensinar</p>
+<p align="left">✨ Crio bugs desde 2023<br>📚 Atualmente tenho estudado inteligência artificial, desenvolvimento mobile e gerenciamento de projetos<br>🎯 Meus objetivos são aprender o suficiente pra poder ensinar</p>
 
 ###
 
