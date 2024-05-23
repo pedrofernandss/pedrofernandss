@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Eu trabalho com:</h2>
+<h2 align="left">Eu trabalho com</h2>
 
 ###
 
