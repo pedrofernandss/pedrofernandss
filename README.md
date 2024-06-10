@@ -1,20 +1,20 @@
-<h1 align="left">Oie, tudo bem?👋</h1>
+<h1 align="left">Hello, how are you?👋</h1>
 
 ###
 
-<p align="left">Meu nome é Pedro e sou estudante de Licenciatura em Ciência da Computação na Universidade de Brasília</p>
+<p align="left">My name is Pedro and I'm a Computer Science student of Universidade de Brasília, Brazil</p>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Crio bugs desde 2023<br>📚 Atualmente tenho estudado inteligência artificial, desenvolvimento mobile e gerenciamento de projetos<br>🎯 Meus objetivos são aprender o suficiente pra poder ensinar</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 Currently I have been studying artificial intelligence, mobile development and project management<br>🎯 Goals: Learn until I be able to teach</p>
 
 ###
 
-<h2 align="left">Eu trabalho com</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
