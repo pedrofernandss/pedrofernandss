@@ -1,4 +1,4 @@
-<h1 align="left">Hello 👋 How are you?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -33,11 +33,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrofernandss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrofernandss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pedrofernandss/pedrofernandss/output/snake.svg" alt="Snake animation" />
 
 ###
