@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">Hi there<br>I'm Pedro Fernandes</h1>
 
 ###
@@ -25,22 +23,18 @@
 
 ###
 
-<p align="left">I'm Computer Science student from University of Brasília<br><br>- 🔭 I’m working as Software Enginner at the Brazilian Federal Courts of Accounts (TCU)<br>- 📚 I'm currently learning machine learning, DevOps and MLOps<br>- ⚡ In my free time I go to the gym and read brazilian novels</p>
+<p align="left">- 👨‍💻 I'm Computer Science student from University of Brasília<br>- 🔭 I’m working as Software Enginner at the Brazilian Federal Courts of Accounts (TCU)<br>- 📚 I'm currently learning Data Structure & Algorithms, Machine Learning, DevOps and MLOps<br>- ⚡ In my free time I go to the gym and read brazilian novels</p>
 
 ###
 
-<h3 align="left">Language and tools</h3>
+<h3 align="left">Currently languages and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -52,12 +46,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
 </div>
 
 ###
 
-### 📝 Latest Blog Posts
+### 📓 Latest Blog Posts
+###
 <!-- BLOG-POST-LIST:START -->
 - [Uma Reflexão Sobre a Representatividade de Dados em Datasets](https://pedrofernandss.medium.com/uma-reflex%C3%A3o-sobre-a-representatividade-de-dados-em-datasets-c6933bbb3349?source=rss-5f6a31c66307------2)
 - [O Problema do Caixeiro-Viajante: De Gregor Samsa à Max Verstappen e a Busca Incessante pelo Caminho…](https://pedrofernandss.medium.com/o-problema-do-caixeiro-viajante-de-gregor-samsa-%C3%A0-max-verstappen-e-a-busca-incessante-pelo-caminho-bbdc78654e75?source=rss-5f6a31c66307------2)
