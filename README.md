@@ -1,16 +1,59 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<br clear="both">
+
+<h1 align="center">Hi there<br>I'm Pedro Fernandes</h1>
 
 ###
 
-<p align="left">My name is Pedro and I'm a Computer Science student of Universidade de Brasília, Brazil</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedrofernandss/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://pedrofernandss.medium.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+  <a href="https://x.com/pedrofernandss" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="mailto:pedrofernandes.olv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 Currently I have been studying artificial intelligence, mobile development and project management<br>🎯 Goals: Learn until I be able to teach</p>
+<p align="left">I'm Computer Science student from University of Brasília<br><br>- 🔭 I’m working as Software Enginner at the Brazilian Federal Courts of Accounts (TCU)<br>- 📚 I'm currently learning machine learning, DevOps and MLOps<br>- ⚡ In my free time I go to the gym and read brazilian novels</p>
+
+###
+
+<h3 align="left">Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
+</div>
 
 ###
 
