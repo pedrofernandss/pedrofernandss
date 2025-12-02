@@ -13,3 +13,7 @@
 <p align="left">✨ Creating bugs since 2023<br>📚 Currently I have been studying artificial intelligence, mobile development and project management<br>🎯 Goals: Learn until I be able to teach</p>
 
 ###
+
+# Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
