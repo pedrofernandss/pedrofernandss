@@ -14,7 +14,7 @@
 
 ###
 
-# Latest Blog Posts
+### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Uma Reflexão Sobre a Representatividade de Dados em Datasets](https://pedrofernandss.medium.com/uma-reflex%C3%A3o-sobre-a-representatividade-de-dados-em-datasets-c6933bbb3349?source=rss-5f6a31c66307------2)
 - [O Problema do Caixeiro-Viajante: De Gregor Samsa à Max Verstappen e a Busca Incessante pelo Caminho…](https://pedrofernandss.medium.com/o-problema-do-caixeiro-viajante-de-gregor-samsa-%C3%A0-max-verstappen-e-a-busca-incessante-pelo-caminho-bbdc78654e75?source=rss-5f6a31c66307------2)
