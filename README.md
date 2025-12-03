@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h2>
 
 ###
 
@@ -33,23 +33,27 @@
 
 ###
 
-<h3 align="left">Languages</h3>
+<h2 align="left">Tech Stack</h2>
+
+###
+
+<h4 align="left">Languages</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,ts,sql" height="40" alt="languages" />
 </div>
 
-<h3 align="left">Backend & Frameworks</h3>
+<h4 align="left">Backend, Databases & Frameworks</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,postgres,mongo" height="40" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,postgres,mongo" height="40" alt="backend" />
 </div>
 
-<h3 align="left">Cloud & DevOps</h3>
+<h4 align="left">DevOps & Cloud</h4>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,terraform,firebase" height="40" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,terraform,firebase,githubactions" height="40" alt="devops" />
 </div>
 
+<h2 align="left">Latest Blog Posts</h2>
 
-### 📓 Latest Blog Posts
 ###
 <!-- BLOG-POST-LIST:START -->
 - [Uma Reflexão Sobre a Representatividade de Dados em Datasets](https://pedrofernandss.medium.com/uma-reflex%C3%A3o-sobre-a-representatividade-de-dados-em-datasets-c6933bbb3349?source=rss-5f6a31c66307------2)
