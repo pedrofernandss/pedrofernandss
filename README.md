@@ -23,33 +23,31 @@
 
 ###
 
-<p align="left">- 👨‍💻 I'm Computer Science student from University of Brasília<br>- 🔭 I’m working as Software Enginner at the Brazilian Federal Courts of Accounts (TCU)<br>- 📚 I'm currently learning Data Structure & Algorithms, Machine Learning, DevOps and MLOps<br>- ⚡ In my free time I go to the gym and read brazilian novels</p>
+<p align="left">
+  - 👨‍💻 I'm a Computer Science student at the University of Brasília (UnB)<br>
+  - 🔭 I’m working as a Software Engineer at the Brazilian Federal Court of Accounts (TCU)<br>
+  - 📚 Currently studying Data Structures & Algorithms, Machine Learning, and MLOps<br>
+  - ⚡ In my free time, I go to the gym and read Brazilian novels<br>
+  - 🎯 My goals? Work with applied machine learning and do a master's degree abroad
+</p>
 
 ###
 
-<h3 align="left">Languages and tools</h3>
-
-###
-
+<h3 align="left">Languages</h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,ts,sql" height="40" alt="languages" />
 </div>
 
-###
+<h3 align="left">Backend & Frameworks</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,postgres,mongo" height="40" alt="tools" />
+</div>
+
+<h3 align="left">Cloud & DevOps</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,gcp,terraform,firebase" height="40" alt="tools" />
+</div>
+
 
 ### 📓 Latest Blog Posts
 ###
