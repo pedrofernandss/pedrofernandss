@@ -25,10 +25,10 @@
 
 <p align="left">
   - 👨‍💻 I'm a Computer Science student at the University of Brasília (UnB)<br>
-  - 🔭 I’m working as a Software Engineer at the Brazilian Federal Court of Accounts (TCU)<br>
-  - 📚 Currently studying Data Structures & Algorithms, Machine Learning, and MLOps<br>
+  - 🔭 I’m working as a SWE at the Brazilian Federal Court of Accounts (TCU), and Machine Learning Reseracher at Petrobras<br>
+  - 📚 Currently studying Data Structures & Algorithms, Statistic, Machine Learning, and MLOps<br>
   - ⚡ In my free time, I go to the gym and read Brazilian novels<br>
-  - 🎯 My goals? Work with applied machine learning and do a master's degree abroad
+  - 🎯 My goals? Make some impact in the world with my knowlodge
 </p>
 
 ###
